@@ -15,7 +15,7 @@ if indexedDB.html.getElementsByClassName("promo_btn") is onclick{
     if (answer1 == 'да'){
     alert ("не стоит")
     } else {
-    alert ("иди нахуй лох")
+    alert ("")
     }
 }
 
